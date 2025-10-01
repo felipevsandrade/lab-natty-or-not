@@ -2,50 +2,38 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+Olá pessoal, Felipe Andrade, estudante DIO.  Inspirado no Desafio DIO de IAs Generativas criei um conteúdo todo feito com IAs.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Um vislumbre do futuro das IA's Generativas.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+O projeto foi criar texto, audio e vídeo todo sobre um compilado do que é possível criar com Inteligência Artificial Generativa, onde 100% do material fosse criado pela I.A. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+IA Generativa: ChatGPT:  
+Usado para roteirização, pesquisa e criação de de prompt para as outras IAs. 
+
+Ia Generativa: NotebookLM:
+Usado para criação de áudio e material textual. 
+
+Ia Generativa: D-ID
+Para criação do avatar. 
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei no chat gpt todo o contexto do que desejava passar no vídeo e através no mesmo e do NotebookLM, foi possível lapidar para que o vídeo ficasse o mais direto possível. O próximo passo foi criar o avatar, inserir o texto e sincronizar a voz.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+Como resultado temos todo o material, desde sua concepção ao projeto final, feito por Inteligência Artificial. 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
